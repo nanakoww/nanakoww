@@ -1,5 +1,4 @@
 # Hi, I'm 𝐉𝐮𝐧𝐧𝐢 𝐆𝐚𝐧! 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nanakoww.nanakoww&left_color=green&right_color=red)
 
 Software Design Engineer with 2.5 years of experience specializing in user interface and backend API development, proficient with React, Python, and Go, based in Netherlands.
 
