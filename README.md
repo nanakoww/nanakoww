@@ -6,7 +6,7 @@ Software Design Engineer with 2.5 years of experience specializing in user inter
 ## 🚀 About Me
 
 - 🎓 I'm currently pursuing my Master's in Computer Science at Leiden University.
-- 📖 I love reading and finish about 120 books a year.
+- 📖 I love reading and finish about 90 books a year.
 - 🎵 Music enthusiast; 𝑪𝒐𝒓𝒑𝒔𝒆 𝑩𝒓𝒊𝒅𝒆 𝒃𝒚 𝑨𝑽𝑨𝑳𝑶𝑵 is a favorite, played 896 times!
 - ✍️ A casual blogger writing in [Junni's Blog](https://www.cnblogs.com/junni).
 
